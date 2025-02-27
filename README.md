@@ -4,4 +4,4 @@
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=sa501428&show_icons=true&theme=github_dark)
 
-![GitHub Stats Card](https://github-readme-streak-stats.herokuapp.com/?user=sa501428&show_icons=true&theme=dark)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sa501428&theme=dark)](https://git.io/streak-stats)
